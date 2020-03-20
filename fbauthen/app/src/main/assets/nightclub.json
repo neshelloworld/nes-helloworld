@@ -1,0 +1,61 @@
+{
+  "nightclub": [
+    {
+      "name": "Bone",
+      "image": "https://m.thaiticketmajor.com/img_venue/prefix_1/0140/12140/12140-5c3d55d38a7a4-v-l.jpg",
+      "position": "Pattaya",
+      "detail": "A large nightclub located in the heart of Pattaya, with an area of over 1,600 square meters that can accommodate up to 2,000 people.\n\nL-Acoustic, a world-class sound system with national lighting, is also available for DJs around the world, as well as bartenders and Russian Dancing."
+
+    },
+    {
+      "name": "Differ",
+      "image": "https://images.siam2nite.com/4jDMmskB2Q-mg1WauqF0ruPHmcc=/450x300/smart/pictures/21237/s2n_0001_p1crhjlac59q8nn960o18cm1on65.jpg",
+      "position": "Pattaya",
+      "detail":"Awesome club with cool music but there is a live band which is i don't prefer to see. I love to listen the song from DJ more than live band. However, this is a good club that you won't miss. One of the best club in Pattaya."
+    },
+    {
+      "name": "Babyface",
+      "image": "https://www.thai2night.com/upload/shop/photo_cover/20190831142241PxhTewJaUP.jpg",
+      "position": "Thonglor",
+      "detail":"The ultimate VIP superclub experience from famous SUPERFACE shenzhen to the heart of Bangkok city “BABYFACE BANGKOK” with intense sound & lighting , biggest LED panel system in Thailand!  , you can expect a lots of EDM and big name guests DJs, shows and crazy parties "
+    },
+    {
+      "name": "Onyx",
+      "image": "https://www.thaiticketmajor.com/images/venue/10698.jpg",
+      "position": "RCA",
+      "detail":"ONYX Main Stage opened in October 2015 with the unashamedly grand ambition of being the biggest and best dance party extravaganza ever conceived in Bangkok and one of the premier nightlife destinations in Asia. Epic in both size and scope, we present to you an incredible 2,500 person capacity hub for dance music lovers. The stadium-style Main Room generates an intensity and wild euphoria that few other clubs in the world can match, with superstar EDM and Commercial Dance artists enthralling a crowd of party people and pleasure seekers"
+    },
+    {
+      "name": "route 66",
+      "image": "https://www.thai2night.com/upload/gallery/photo/349/big/IMG_7988.jpg",
+      "position": "RCA",
+      "detail":"It's a clean crowd. Suitable for solo men and women . no one will try to mess with you.Music is AWESOME. 2-3 different rooms for different mood!!"
+    },
+    {
+      "name": "Beam",
+      "image": "https://i.ytimg.com/vi/kRmRlMqZzN4/hqdefault.jpg",
+      "position": "Thonglor",
+      "detail":"Beam is a vibrant and honest nightclub with a communal vibe. The music policy is precise. The sound is ear-shifting. The lighting and visuals are transcendental."
+    },
+    {
+      "name": "Sing Sing Theater",
+      "image": "https://mojosons.com/wp-content/uploads/2018/08/sing_sing_theater_stairs.jpg",
+      "position": "Sukhumvit",
+      "detail":"Sing Sing Theater is the award-winning sanctuary of nightlife in Bangkok, featuring the hottest DJs across-the-board, cutting-edge performers and most beautiful people Tuesday through Sunday. Table reservations are highly recommended."
+    },
+    {
+      "name": "Funky Villa",
+      "image": "https://f.ptcdn.info/825/027/000/1422260182-1016290101-o.jpg",
+      "position": "Thonglor",
+      "detail":"The place resembles one giant home for the rich, and is basically a large villa with a rooftop, outdoor patio, and plenty of light copper tones and warm lights inside."
+    },
+    {
+      "name": "Demo",
+      "image": "https://www.yoonthai.com/wp-content/uploads/2018/04/Demo-Pub-020-1024x683.jpg",
+      "position": "Thonglor",
+      "detail":"you can dance until the wee hours here, with a range of hip hop, techno, and house music being spun by visiting and resident DJ's in the two large club rooms."
+    }
+
+
+  ]
+}

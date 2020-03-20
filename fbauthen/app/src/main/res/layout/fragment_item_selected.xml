@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/pi2"
+    tools:context=".item_selected">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="700dp"
+            android:orientation="vertical"
+            android:padding="16dp"
+            android:gravity="center"
+            android:layout_centerInParent="true"
+            android:background="#88FFFFFF" >
+
+            <ImageView
+                android:id="@+id/imgV"
+                android:layout_width="match_parent"
+                android:layout_marginBottom="50dp"
+                android:layout_height="250dp" />
+
+            <TextView
+                android:id="@+id/tv_name"
+                android:text="name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:fontFamily="@font/ftwo"
+                android:textColor="#020000"
+                android:textAlignment="center"
+                android:textSize="20dp"
+                android:textStyle="normal"/>
+
+            <TextView
+                android:id="@+id/tv_description"
+                android:text="Position"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+
+                android:textColor="#020000"
+                android:textAlignment="center"
+                android:textSize="20dp"
+                android:textStyle="normal"/>
+
+            <TextView
+                android:id="@+id/skill_detail"
+                android:text="Description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+
+                android:textColor="#020000"
+                android:textAlignment="center"
+                android:textSize="20dp"
+                android:textStyle="normal"/>
+            <Button
+                android:id="@+id/gochart"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:background="#ECDBDF"
+                android:backgroundTint="#3F51B5"
+                android:fontFamily="@font/fone"
+                android:text="Chart"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:visibility="visible" />
+        </LinearLayout>
+    </RelativeLayout>
+</FrameLayout>
